@@ -1,7 +1,7 @@
 * Example project
 
 ** What is this?
-This project gives you an overview of how you might want to structure a Raamwerk web app with separate API and site middeware.
+This project gives you an overview of how you might want to structure a [[https://github.com/danielsz/system/wiki/Raamwerk][Raamwerk]] web app with separate API and site middeware.
 The example project starts a web server in development mode, and a web server + remote repl in production. 
 The build tool used in this project is [[http://boot-clj.com/][Boot]]. 
 ** Instructions
